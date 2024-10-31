@@ -1,0 +1,9 @@
+{
+  "name": "playwright-agents",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/playwright-agents",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project playwright-agents --web",
+  "targets": {}
+}

@@ -1,0 +1,9 @@
+{
+  "name": "playwright-agents-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/playwright-agents-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["playwright-agents"],
+  "// targets": "to see all targets run: nx show project playwright-agents-e2e --web",
+  "targets": {}
+}
